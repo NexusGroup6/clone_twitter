@@ -23,6 +23,7 @@ Ferramentas utilizadas na construção do projeto:
 - HTML
 - CSS
 - TypeScript
+- ReactJS
 
 
 ## 🌍 Site 
