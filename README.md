@@ -16,7 +16,7 @@ Paulo Willyan - Marcos Arambasic -
 Matheus Costa - Matheus Reis
 
 
-### 🛠 Tecnologias
+## 💻 Tecnologias
 
 Ferramentas utilizadas na construção do projeto:
 
@@ -25,7 +25,7 @@ Ferramentas utilizadas na construção do projeto:
 - TypeScript
 
 
-## Site 
+## 🌍 Site 
 
 
 
