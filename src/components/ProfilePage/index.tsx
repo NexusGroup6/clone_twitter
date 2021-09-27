@@ -27,7 +27,7 @@ const ProfilePage: React.FC = () => {
         <h2>@Paulo11_rondon</h2>
 
         <p>
-          Developer F/A <a href="www.google.com">Google</a>
+          Grupo de Alunos do Senai <a href="www.google.com">Google</a>
         </p>
 
         <ul>
@@ -37,7 +37,7 @@ const ProfilePage: React.FC = () => {
           </li>
           <li>
             <CakeIcon />
-            Nascido(a) em 18 de fevereiro 
+            Nascido(a) em 01 de agosto de 2021
           </li>
         </ul>
 
