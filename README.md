@@ -27,7 +27,7 @@ Ferramentas utilizadas na construção do projeto:
 
 
 ## 🌍 Site 
-
+![Imagem do clone concluído](print_tt_end.png)
 
 
 
