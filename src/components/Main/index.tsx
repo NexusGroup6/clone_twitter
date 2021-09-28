@@ -24,7 +24,7 @@ const Main: React.FC = () => {
 
         <ProfileInfo>
           <strong>Nexus Group</strong>
-          <span>324 Tweets</span>
+          <span>777 Tweets</span>
         </ProfileInfo>
       </Header>
 

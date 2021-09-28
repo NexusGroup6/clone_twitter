@@ -6,7 +6,7 @@ const News: React.FC = () => {
   return (
     <Container>
       <span>Assuntos do momento no Brasil</span>
-      <strong>Nexus Maior que todos</strong>
+      <strong>Nexus Group está nos trends do Google</strong>
     </Container>
   );
 };

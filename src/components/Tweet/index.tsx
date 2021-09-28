@@ -31,29 +31,29 @@ const Tweet: React.FC = () => {
 
         <Content>
           <Header>
-            <strong>Rocketseat</strong>
-            <span>@rocketseat</span>
+            <strong>São Paulo FC</strong>
+            <span>@SaoPauloFC</span>
             <Dot />
-            <time>27 de jun</time>
+            <time>23 de mai</time>
           </Header>
 
           {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-          <Description>Foguete não tem ré 🚀</Description>
+          <Description>Final campeonato paulista 2021 🚀</Description>
 
           <ImageContent />
 
           <Icons>
             <Status>
               <CommentIcon />
-              18
+              10,257
             </Status>
             <Status>
               <RetweetIcon />
-              18
+              1.273
             </Status>
             <Status>
               <LikeIcon />
-              999
+              23,778
             </Status>
           </Icons>
         </Content>

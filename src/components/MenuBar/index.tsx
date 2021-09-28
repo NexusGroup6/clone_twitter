@@ -59,7 +59,7 @@ const MenuBar: React.FC = () => {
 
         <ProfileData>
           <strong>Nexus Group</strong>
-          <span>@Nexus Group</span>
+          <span>@Nexus_Group</span>
         </ProfileData>
 
         <ExitIcon />

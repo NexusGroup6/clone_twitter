@@ -23,8 +23,8 @@ const ProfilePage: React.FC = () => {
       <ProfileData>
         <EditButton outlined>Editar perfil</EditButton>
 
-        <h1>Paulo Rondon</h1>
-        <h2>@Paulo11_rondon</h2>
+        <h1>Nexus Group</h1>
+        <h2>@Nexus_Group</h2>
 
         <p>
           Grupo de Alunos do Senai <a href="www.google.com">Google</a>
@@ -37,16 +37,16 @@ const ProfilePage: React.FC = () => {
           </li>
           <li>
             <CakeIcon />
-            Nascido(a) em 01 de agosto de 2021
+            Nascido(a) em 29 de julho de 2021
           </li>
         </ul>
 
         <Followage>
           <span>
-            seguindo <strong>94</strong>
+            seguindo <strong>7</strong>
           </span>
           <span>
-            <strong>672 </strong> seguidores
+            <strong>1,278</strong> seguidores
           </span>
         </Followage>
       </ProfileData>
